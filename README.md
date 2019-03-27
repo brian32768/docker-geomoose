@@ -10,4 +10,3 @@ Refer to the official Geomoose docs for more details.
 
 https://geomoose.github.io/gm3/quickstart.html
 
-<brian@wildsong.biz>
